@@ -1,9 +1,9 @@
 ---
 date: 2023-07-24 09:00:00 -0500
 title: "Step 1: Do your research"
-summary: "Best practices for conducting interviews"
-guide: hcd-measurement-guide
-primary_image: hcd-measurement-guide
+summary: "Best practices for conducting HCD measurement"
+guide: hcd-measurement-concept-guide
+primary_image: hcd-measurement-concept-guide
 ---
 
 ## Step 1
